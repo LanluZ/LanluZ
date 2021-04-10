@@ -6,5 +6,5 @@
 
 >|CS2D-LUA|Mindustry|其他||
 >|--------|-------------|---|---|
->|[BOSS-WAR](https://github.com/LanluZ/CS2D-BOSS-MOD)|    施工中    |[Magic-Square](https://github.com/LanluZ/Magic-Square)||
+>|[BOSS-WAR](https://github.com/LanluZ/CS2D-BOSS-MOD)|[某mod]施工中|[Magic-Square](https://github.com/LanluZ/Magic-Square)||
 >||[Logic-Wiki](https://github.com/MindustryGame/wiki/)|||
