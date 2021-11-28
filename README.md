@@ -7,4 +7,4 @@
 >|CS2D-LUA|Mindustry|其他||
 >|--------|-------------|---|---|
 >|[BOSS-WAR](https://github.com/LanluZ/CS2D-BOSS-MOD)|[某mod]施工中|[Magic-Square](https://github.com/LanluZ/Magic-Square)||
->||[Logic-Wiki](https://github.com/LanluZ/Mindustry-guide)|[Fibonacci-sequence](https://github.com/LanluZ/Fibonacci-sequence)||
+>||[Logic-Wiki](https://github.com/LanluZ/Mindustry-guide)|[Fibonacci-Sequence](https://github.com/LanluZ/Fibonacci-sequence)||
