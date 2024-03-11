@@ -4,11 +4,11 @@
 
 <table>
     <tr>
-        <td>
-            [![](https://github-readme-stats.vercel.app/api?username=LanluZ&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+        <img>
+            <img src="https://github-readme-stats.vercel.app/api?username=LanluZ&theme=calm&show_icons=true">
         </td>
         <td>
-            [![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanluZ&theme=calm&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanluZ&theme=calm&langs_count=6&layout=compact">
         </td>
     </tr>
 </table>
