@@ -1,4 +1,7 @@
-![](https://count.getloli.com/get/@LanluZ?theme=rule34)
+<div>
+    <img src="https://count.getloli.com/get/@LanluZ?theme=rule34">
+</div>
+
 
 ![](https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg)
 
