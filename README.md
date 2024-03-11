@@ -1,5 +1,5 @@
 <div>
-    <img src="https://count.getloli.com/get/@LanluZ?theme=rule34">
+    <img src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
 </div>
 
 
