@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
 </div>
 
