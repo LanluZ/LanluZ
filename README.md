@@ -1,6 +1,6 @@
 <!-- 访问统计 -->
 <div align="center">
-<img width="50%" src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
+<img src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
 </div>
 
 <!-- 分割线 -->
@@ -8,6 +8,9 @@
 
 <!-- Commit贪吃蛇 -->
 ![](https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg)
+
+<!-- 分割线 -->
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"  alt=""/>
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
