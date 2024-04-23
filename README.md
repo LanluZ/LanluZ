@@ -1,6 +1,6 @@
 <!-- 访问统计 -->
 <div align="center">
-<img width="100%" src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
+<img width="50%" src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
 </div>
 
 <!-- 分割线 -->
