@@ -14,7 +14,7 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LanluZ&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula"  alt=""/>
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&hide_border=true&layout=compact&theme=dracula"  alt=""/><br>
+<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LanluZ&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=dracula"  alt=""/>
+<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&hide_border=true&layout=compact&theme=dracula"  alt=""/><br>
 </div>
 
