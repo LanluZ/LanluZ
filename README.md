@@ -4,13 +4,13 @@
 </div>
 
 <!-- 分割线 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"  alt=""/>
+---
 
 <!-- Commit贪吃蛇 -->
 ![](https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg)
 
 <!-- 分割线 -->
-<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif"  alt=""/>
+---
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
