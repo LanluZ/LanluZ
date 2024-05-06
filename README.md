@@ -8,11 +8,9 @@
 
 <!-- Commit Snake -->
 <div align="center">
-<img width="400px" src="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg" alt="">
+<img src="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg" alt="">
 </div>
 
-<!-- 分割线 -->
----
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
@@ -20,4 +18,7 @@
 <br>
 <img width="400px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&layout=compact&theme=vue"  alt=""/><br>
 </div>
+
+<!-- 分割线 -->
+---
 
