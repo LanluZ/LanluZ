@@ -1,14 +1,7 @@
-<!-- 自定义样式 -->
-<style>
-div {
-    text-align: left;
-}
-</style>
-
 # 👋 HELLO
 
 <!-- 访问统计 -->
-<div>
+<div style="text-align: left;">
 <img src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
 </div>
 
@@ -16,13 +9,13 @@ div {
 ---
 
 <!-- GitHub 数据统计 -->
-<div>
-<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LanluZ&hide_title=true&show_icons=true&include_all_commits=true&theme=vue"  alt=""/>
-<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&layout=compact&theme=vue"  alt=""/><br>
+<div style="text-align: left;">
+<img height="120px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LanluZ&hide_title=true&show_icons=true&include_all_commits=true&theme=vue"  alt=""/>
+<img height="120px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&layout=compact&theme=vue"  alt=""/><br>
 </div>
 
 <!-- Commit Snake -->
-<div>
+<div style="text-align: left;">
 <img id="commit_snake" src="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg" alt="">
 </div>
 
