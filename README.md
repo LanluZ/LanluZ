@@ -1,3 +1,11 @@
+<script>
+    window.addEventListener("DOMContentLoaded",ev => {
+        const commit_snake = document.getElementById("commit_snake");
+        
+        console.log(commit_snake.width);
+});
+</script>
+
 <!-- 分割线 -->
 ---
 
@@ -18,7 +26,7 @@
 
 <!-- Commit Snake -->
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg" alt="">
+<img id="commit_snake" src="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg" alt="">
 </div>
 
 <!-- 分割线 -->
