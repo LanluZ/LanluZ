@@ -10,8 +10,8 @@
 
 <!-- GitHub 数据统计 -->
 <div style="text-align: left;">
-<img height="120px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LanluZ&hide_title=true&show_icons=true&include_all_commits=true&theme=vue"  alt=""/>
-<img height="120px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&layout=compact&theme=vue"  alt=""/><br>
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LanluZ&hide_title=true&show_icons=true&include_all_commits=true&theme=vue"  alt=""/>
+<img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LanluZ&hide_title=true&layout=compact&theme=vue"  alt=""/><br>
 </div>
 
 <!-- Commit Snake -->
