@@ -1,11 +1,3 @@
-<script>
-    window.addEventListener("DOMContentLoaded",ev => {
-        const commit_snake = document.getElementById("commit_snake");
-        
-        console.log(commit_snake.width);
-});
-</script>
-
 <!-- 分割线 -->
 ---
 
