@@ -7,7 +7,9 @@
 ---
 
 <!-- Commit Snake -->
-![](https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg)
+<div align="center">
+<img width="400px" src="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake.svg" alt="">
+</div>
 
 <!-- 分割线 -->
 ---
