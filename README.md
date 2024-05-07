@@ -1,8 +1,8 @@
-# 👋 你好
+# 👋 HELLO
 
 <!-- 访问统计 -->
 <div style="text-align: left;">
-<img src="https://count.geologist.com/get/@LanluZ?theme=rule34" alt="">
+<img src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
 </div>
 
 <!-- 分割线 -->
