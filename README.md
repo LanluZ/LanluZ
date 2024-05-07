@@ -1,4 +1,4 @@
-# 👋 HELLO
+# 👋 你好
 
 <!-- 访问统计 -->
 <div style="text-align: left;">
