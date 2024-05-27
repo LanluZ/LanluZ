@@ -2,7 +2,7 @@
 
 <!-- 访问统计 -->
 <div style="text-align: left;">
-<img src="https://count.getloli.com/get/@LanluZ?theme=rule34" alt="">
+<img src="http://199.255.98.34:8000/lanluz?length=10&theme=rule34" alt="">
 </div>
 
 
