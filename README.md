@@ -1,4 +1,4 @@
-# 🫐兰草酱 README🫐
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Microsoft+Yahei&weight=900&size=35&pause=1000&color=310455&repeat=false&random=false&width=435&lines=%F0%9F%AB%90%E5%85%B0%E8%8D%89%E9%85%B1+README%F0%9F%AB%90)](https://git.io/typing-svg)
 
 <!-- 访问统计 -->
 <div style="text-align: left;">
