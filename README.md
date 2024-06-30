@@ -18,7 +18,7 @@
 ---
 
 <!-- 学过的 -->
-![其他](https://skillicons.dev/icons?i=git,arduino,pytorch,debian,ubuntu,qt,opencv&theme=light)
+![其他](https://skillicons.dev/icons?i=git,arduino,docker,pytorch,debian,ubuntu,qt,opencv&theme=light)
 
 ![后端](https://skillicons.dev/icons?i=python,c,cpp,java,go,lua&theme=light)
 
