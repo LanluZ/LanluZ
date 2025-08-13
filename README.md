@@ -2,7 +2,7 @@
 
 <!-- 访问统计 -->
 <div style="text-align: left;">
-<img src="http://132.232.132.15:8000/lanluz?length=10&theme=rule34" alt="">
+<img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="">
 </div>
 
 <!-- 分割线 -->
