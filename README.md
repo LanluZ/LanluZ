@@ -8,36 +8,52 @@
   <img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="访问统计">
 </p>
 
-<!-- 彩虹分隔线 -->
-<div style="height: 4px; border-radius: 4px; background: linear-gradient(90deg, #ff6b6b, #ffa94d, #ffd43b, #69db7c, #4dabf7, #b197fc, #f783ac); margin: 20px 0;"></div>
+<!-- 彩虹分隔线（内联 SVG，GitHub 渲染友好） -->
+<svg viewBox="0 0 700 4" width="100%" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0"   width="100" height="4" fill="#ff6b6b"/>
+  <rect x="100" width="100" height="4" fill="#ffa94d"/>
+  <rect x="200" width="100" height="4" fill="#ffd43b"/>
+  <rect x="300" width="100" height="4" fill="#69db7c"/>
+  <rect x="400" width="100" height="4" fill="#4dabf7"/>
+  <rect x="500" width="100" height="4" fill="#b197fc"/>
+  <rect x="600" width="100" height="4" fill="#f783ac"/>
+</svg>
 
 <!-- 技能区 -->
-<h3 align="left" style="color: #ff6b6b;">🛠️ 其他</h3>
+<h3 align="left">🛠️ <img src="https://img.shields.io/badge/%E5%85%B6%E4%BB%96-ff6b6b?style=for-the-badge" alt="其他"></h3>
 
 ![其他](https://skillicons.dev/icons?i=git,arduino,docker,pytorch,debian,ubuntu,qt,opencv&theme=light)
 
-<h3 align="left" style="color: #4dabf7;">⚙️ 后端</h3>
+<h3 align="left">⚙️ <img src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-4dabf7?style=for-the-badge" alt="后端"></h3>
 
 ![后端](https://skillicons.dev/icons?i=python,c,cpp,java,go,lua&theme=light)
 
-<h3 align="left" style="color: #f783ac;">🎨 生产</h3>
+<h3 align="left">🎨 <img src="https://img.shields.io/badge/%E7%94%9F%E4%BA%A7-f783ac?style=for-the-badge" alt="生产"></h3>
 
 ![生产](https://skillicons.dev/icons?i=ps,pr,ae,blender)
 
-<h3 align="left" style="color: #ffd43b;">🖥️ 前端</h3>
+<h3 align="left">🖥️ <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-ffd43b?style=for-the-badge" alt="前端"></h3>
 
 ![前端](https://skillicons.dev/icons?i=js,html,css)
 
-<h3 align="left" style="color: #69db7c;">🗄️ 数据库</h3>
+<h3 align="left">🗄️ <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E5%BA%93-69db7c?style=for-the-badge" alt="数据库"></h3>
 
 ![数据库](https://skillicons.dev/icons?i=postgresql,sqlite&theme=light)
 
-<h3 align="left" style="color: #b197fc;">🎮 引擎</h3>
+<h3 align="left">🎮 <img src="https://img.shields.io/badge/%E5%BC%95%E6%93%8E-b197fc?style=for-the-badge" alt="引擎"></h3>
 
 ![引擎](https://skillicons.dev/icons?i=unity&theme=light)
 
 <!-- 彩虹分隔线 -->
-<div style="height: 4px; border-radius: 4px; background: linear-gradient(90deg, #ff6b6b, #ffa94d, #ffd43b, #69db7c, #4dabf7, #b197fc, #f783ac); margin: 20px 0;"></div>
+<svg viewBox="0 0 700 4" width="100%" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0"   width="100" height="4" fill="#ff6b6b"/>
+  <rect x="100" width="100" height="4" fill="#ffa94d"/>
+  <rect x="200" width="100" height="4" fill="#ffd43b"/>
+  <rect x="300" width="100" height="4" fill="#69db7c"/>
+  <rect x="400" width="100" height="4" fill="#4dabf7"/>
+  <rect x="500" width="100" height="4" fill="#b197fc"/>
+  <rect x="600" width="100" height="4" fill="#f783ac"/>
+</svg>
 
 <!-- Commit Snake：跟随系统亮/暗自动切换 -->
 <picture>
@@ -46,7 +62,15 @@
 </picture>
 
 <!-- 彩虹分隔线 -->
-<div style="height: 4px; border-radius: 4px; background: linear-gradient(90deg, #ff6b6b, #ffa94d, #ffd43b, #69db7c, #4dabf7, #b197fc, #f783ac); margin: 20px 0;"></div>
+<svg viewBox="0 0 700 4" width="100%" height="4" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0"   width="100" height="4" fill="#ff6b6b"/>
+  <rect x="100" width="100" height="4" fill="#ffa94d"/>
+  <rect x="200" width="100" height="4" fill="#ffd43b"/>
+  <rect x="300" width="100" height="4" fill="#69db7c"/>
+  <rect x="400" width="100" height="4" fill="#4dabf7"/>
+  <rect x="500" width="100" height="4" fill="#b197fc"/>
+  <rect x="600" width="100" height="4" fill="#f783ac"/>
+</svg>
 
 <!-- 底部签名 -->
 <p align="center">
