@@ -14,27 +14,27 @@
 </p>
 
 <!-- 技能区 -->
-<h3 align="left">🛠️ <img src="https://img.shields.io/badge/%E5%85%B6%E4%BB%96-ff6b6b?style=for-the-badge&v=1" alt="其他"></h3>
+<h3 align="left">🛠️ <img src="assets/badge-other.svg" alt="其他"></h3>
 
 ![其他](https://skillicons.dev/icons?i=git,arduino,docker,pytorch,debian,ubuntu,qt,opencv&theme=light)
 
-<h3 align="left">⚙️ <img src="https://img.shields.io/badge/%E5%90%8E%E7%AB%AF-4dabf7?style=for-the-badge&v=1" alt="后端"></h3>
+<h3 align="left">⚙️ <img src="assets/badge-backend.svg" alt="后端"></h3>
 
 ![后端](https://skillicons.dev/icons?i=python,c,cpp,java,go,lua&theme=light)
 
-<h3 align="left">🎨 <img src="https://img.shields.io/badge/%E7%94%9F%E4%BA%A7-f783ac?style=for-the-badge&v=1" alt="生产"></h3>
+<h3 align="left">🎨 <img src="assets/badge-design.svg" alt="生产"></h3>
 
 ![生产](https://skillicons.dev/icons?i=ps,pr,ae,blender)
 
-<h3 align="left">🖥️ <img src="https://img.shields.io/badge/%E5%89%8D%E7%AB%AF-ffd43b?style=for-the-badge&v=1" alt="前端"></h3>
+<h3 align="left">🖥️ <img src="assets/badge-frontend.svg" alt="前端"></h3>
 
 ![前端](https://skillicons.dev/icons?i=js,html,css)
 
-<h3 align="left">🗄️ <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E5%BA%93-69db7c?style=for-the-badge&v=1" alt="数据库"></h3>
+<h3 align="left">🗄️ <img src="assets/badge-db.svg" alt="数据库"></h3>
 
 ![数据库](https://skillicons.dev/icons?i=postgresql,sqlite&theme=light)
 
-<h3 align="left">🎮 <img src="https://img.shields.io/badge/%E5%BC%95%E6%93%8E-b197fc?style=for-the-badge&v=1" alt="引擎"></h3>
+<h3 align="left">🎮 <img src="assets/badge-engine.svg" alt="引擎"></h3>
 
 ![引擎](https://skillicons.dev/icons?i=unity&theme=light)
 
