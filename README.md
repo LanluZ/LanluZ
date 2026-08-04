@@ -16,13 +16,13 @@
   <img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="visitor counter">
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
-    <img src="profile/stats.svg" alt="GitHub stats">
-  </picture>
-</p>
+<!-- GitHub Stats 双栏 -->
+<table align="center">
+  <tr>
+    <td align="center"><img src="profile/stats.svg" alt="GitHub stats"></td>
+    <td align="center"><img src="profile/top-langs.svg" alt="Top languages"></td>
+  </tr>
+</table>
 
 <!-- 贪吃蛇 -->
 <p align="center">
