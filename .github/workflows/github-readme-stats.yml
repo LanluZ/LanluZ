@@ -15,12 +15,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: anuraghazra/github-readme-stats@master
         with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move generated files
+        run: |
+          mkdir -p profile
+          mv *.svg profile/ 2>/dev/null || true
+          mv src/*.svg profile/ 2>/dev/null || true
 
       - name: Commit cards
         run: |
