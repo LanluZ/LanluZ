@@ -34,5 +34,5 @@
 
 <!-- 鱼板 -->
 <p align="center">
-  <b>🍥 &nbsp;thanks for visiting&nbsp; 🍥</b>
+  <b>ciallo</b>
 </p>
