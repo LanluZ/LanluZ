@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 520 180" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <!-- 暗色版：女巫帽 + 兰草 线条画 -->
-  <g stroke="#e6edf3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M96 152 C 90 118, 108 88, 88 58" />
-    <path d="M120 150 C 122 114, 146 96, 138 62" />
-    <path d="M108 152 C 104 128, 76 116, 62 96" />
-    <path d="M130 120 C 152 110, 158 92, 152 74" />
-    <path d="M262 152 L 330 40 L 398 152 Z" />
-    <path d="M236 152 L 424 152" />
-    <path d="M330 40 C 330 40, 348 60, 368 68" />
-    <path d="M236 152 C 226 166, 208 168, 196 160" />
-    <path d="M424 152 C 434 166, 452 168, 464 160" />
-  </g>
-  <text x="260" y="172" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="17" letter-spacing="6" fill="#e6edf3">LANLUZ</text>
+<svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- 暗色版：纯文字 logo -->
+  <text x="200" y="65" text-anchor="middle" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="36" letter-spacing="14" font-weight="200" fill="#e6edf3">兰草酱</text>
+  <line x1="110" y1="78" x2="290" y2="78" stroke="#e6edf3" stroke-width="0.8" opacity="0.3" />
 </svg>
