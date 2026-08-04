@@ -34,5 +34,5 @@
 
 <!-- 鱼板 -->
 <p align="center">
-  <b>ciallo～(∠・ω&lt; )⌒☆</b>
+  <b>Ciallo～(∠・ω&lt; )⌒★</b>
 </p>
