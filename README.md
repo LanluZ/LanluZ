@@ -1,4 +1,4 @@
-<!-- 头图：纯文字 logo（亮/暗自动切换） -->
+<!-- 大字体 -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
@@ -6,17 +6,17 @@
   </picture>
 </p>
 
-<!-- 一句英文随想 -->
+<!-- 神秘英文 -->
 <p align="center">
   <i>"Enjoy programming and build awesome stuff."</i>
 </p>
 
-<!-- r34 计数器 -->
+<!-- 计数器 -->
 <p align="center">
   <img src="http://132.232.132.15:8001/lanluz?length=10&theme=rule34" alt="visitor counter">
 </p>
 
-<!-- GitHub Stats 卡片（亮/暗自动切换） -->
+<!-- GitHub Stats -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LanluZ&show_icons=true&theme=transparent&hide_border=true">
@@ -24,7 +24,7 @@
   </picture>
 </p>
 
-<!-- 贡献贪吃蛇（亮/暗自动切换） -->
+<!-- 贪吃蛇 -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/LanluZ/LanluZ@output/github-contribution-grid-snake-dark.svg">
@@ -32,7 +32,7 @@
   </picture>
 </p>
 
-<!-- 签名 -->
+<!-- 鱼板 -->
 <p align="center">
   <b>🍥 &nbsp;thanks for visiting&nbsp; 🍥</b>
 </p>
